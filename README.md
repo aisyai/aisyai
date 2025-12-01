@@ -2,13 +2,14 @@
 <h3 align="center">frontend ✦ ui/ux ☁️</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/6d/55/3d/6d553dcce0c07ba3ba69947e8f0aafb4.gif" width="250"/>
+  <img src="https://watermelon.crd.co/assets/images/gallery19/fa243d37.gif?v=e2e5e274" width="50"/>
 </p>
 
 - 🌱 currently learning **Next.js** (trying my best frfr 😼🤏)
 - 🐕‍🦺 currently building **Pawpals** — an android dog community app
 - 📮 reach me anytime: **aisyaadiyann@gmail.com**  
 - 🤓 fun fact: i design better when the playlist is My Playlist hoho
+- 🚗 Down to collab on anything Web Dev & Open-Source related!
 
 ---
 
