@@ -1,12 +1,13 @@
 <h1 align="center">hi, i'm aisya (^^ゞ</h1>
-<h3 align="center">frontend ✦ ui/ux ☁️</h3>
+<h3 align="center">frontend ✦ ui/ux ☁️ game dev</h3>
 
 <p align="center">
   <img src="https://watermelon.crd.co/assets/images/gallery19/fa243d37.gif?v=e2e5e274" width="50"/>
 </p>
 
-- 🌱 currently learning **Next.js** (trying my best frfr 😼🤏)
-- 🐕‍🦺 currently building **Pawpals** — an android dog community app
+- 🌱 currently learning Next.js rn (trying my best frfr 😼🤏)
+- 🐕‍🦺 building **Pawpals** — android dog community app
+- 🐟 working on **Reel Fate** — eco-fishing game
 - 📮 reach me anytime: **aisyaadiyann@gmail.com**  
 - 🤓 fun fact: i design better when the playlist is My Playlist hoho
 - 🚗 Down to team up for Web Development, UI/UX design, or Open-Source work!
