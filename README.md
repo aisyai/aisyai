@@ -9,7 +9,7 @@
 - 🐕‍🦺 currently building **Pawpals** — an android dog community app
 - 📮 reach me anytime: **aisyaadiyann@gmail.com**  
 - 🤓 fun fact: i design better when the playlist is My Playlist hoho
-- 🚗 Down to collab on anything Web Dev & Open-Source related!
+- 🚗 Down to team up for Web Development, UI/UX design, or Open-Source work!
 
 ---
 
