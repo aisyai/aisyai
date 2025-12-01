@@ -6,7 +6,7 @@
 </p>
 
 - 🌱 currently learning **Next.js** (trying my best frfr 😼🤏)
-- ✨ currently building **Pawpals** — an android community app
+- 🐕‍🦺 currently building **Pawpals** — an android dog community app
 - 📮 reach me anytime: **aisyaadiyann@gmail.com**  
 - 🤓 fun fact: i design better when the playlist is My Playlist hoho
 
