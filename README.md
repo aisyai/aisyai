@@ -5,9 +5,10 @@
   <img src="https://watermelon.crd.co/assets/images/gallery19/fa243d37.gif?v=e2e5e274" width="50"/>
 </p>
 
-- 🌱 currently learning Next.js rn (trying my best frfr 😼🤏)
+- 🌱 currently learning Next.js, C#, Kotlin (trying my best frfr 😼🤏)
 - 🐕‍🦺 building **Pawpals** — android dog community app
-- 🐟 working on **Reel Fate** — eco-fishing game
+- 🐟 working on **Reel Fate** — eco-fishing game, [access here](https://aisyai.itch.io/reel-fate)!
+- 🚗 ... and some incoming mini projects
 - 📮 reach me anytime: **aisyaadiyann@gmail.com**  
 - 🤓 fun fact: i design better when the playlist is My Playlist hoho
 - 🚗 Down to team up for Web Development, UI/UX design, or Open-Source work!
